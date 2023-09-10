@@ -81,3 +81,9 @@ footer{
     color: white;
     text-align: center;
 }
+footer a{
+    color: rgb(82, 73, 73);
+}
+footer a :hover{
+    text-decoration: underline;
+}
